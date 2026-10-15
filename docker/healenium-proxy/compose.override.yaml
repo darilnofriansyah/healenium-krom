@@ -1,0 +1,4 @@
+services:
+  hlm-proxy:
+    image: hlm-proxy:2.2.1-selenium-4.27.0
+    pull_policy: never
